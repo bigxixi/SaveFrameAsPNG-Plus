@@ -8,7 +8,7 @@ Run AE, click `File`->`Script`->`Run Script File...` and choose the `SaveFrameAs
 Or you can copy the `SaveFrameAsPNG-Plus.jsx` to your AE script folder:
 >**Windows:**  
 >`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script`  
->>**Mac:**  
+>**Mac:**  
 >`/Applications/Adobe After Effects <version>/Scripts/`
 </br>
 Then you can run it derectly from `File`->`Script`  </br></br>
@@ -24,6 +24,7 @@ I keep them both because of research reason, you can see the details in the code
 </br>
 >**PNG with good Alpha**  
 >>![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/goodalpha1.png)  
+
 >**PNG with bad Alpha**  
 >>![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png)
 </br>
