@@ -7,9 +7,10 @@ Run AE, click `File`->`Script`->`Run Script File...` and choose the `SaveFrameAs
 </br>
 Or you can copy the `SaveFrameAsPNG-Plus.jsx` to your AE script folder:
 >**Windows:**  
->`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script`  
+>`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script\`  
 >**Mac:**  
 >`/Applications/Adobe After Effects <version>/Scripts/`
+
 </br>
 Then you can run it derectly from `File`->`Script`  </br></br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)  
