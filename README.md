@@ -6,10 +6,10 @@ Download the [`ZIP file`](https://github.com/bigxixi/SaveFrameAsPNG-Plus/archive
 Run AE, click `File`->`Script`->`Run Script File...` and choose the `SaveFrameAsPNG-Plus.jsx` file.  
 </br>
 Or you can copy the `SaveFrameAsPNG-Plus.jsx` to your AE script folder:
->>**Windows:**  
->>`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script`  
+>**Windows:**  
+>`C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script`  
 >>**Mac:**  
->>`/Applications/Adobe After Effects <version>/Scripts/`
+>`/Applications/Adobe After Effects <version>/Scripts/`
 </br>
 Then you can run it derectly from `File`->`Script`  </br></br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)  
@@ -23,10 +23,11 @@ As you can see I set two buttons on the pannel, the `PNG with good Alpha` one is
 I keep them both because of research reason, you can see the details in the code.  
 </br>
 >**PNG with good Alpha**  
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/goodalpha1.png)  
+>>![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/goodalpha1.png)  
 >**PNG with bad Alpha**  
->![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png)
+>>![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png)
 </br>
+
 # Known issues  
 1. Only tested on Mac OS 10.11.5 with `AE CC 13.2` and One of my frends help test an early veision on Windows 10 with AE CC 2014, but I'm not sure if the latest one works on that.  
 2. Sometimes the script might capture wrong images.Rerun the script to fiexd that.
