@@ -1,3 +1,4 @@
+//Script by bigxixi, contact xixi@bigxixi.com
 //提示文本
 //Tips
 var scriptName = "SaveFrameAsPNG Plus";
@@ -111,8 +112,8 @@ btn1.onClick=function(){
 	}
 }
 //内部函数法，快但有黑边，适合不透明图层
-//mathed two use the undocumented function "saveFrameToPng()" to get png.Faster and simpler than 
-//the regular one, but will generate black egdes if you render the freme with alpha.
+//mathod two use the undocumented function "saveFrameToPng()" to get png.Faster and simpler than 
+//the regular one, but will generate black egdes if you render the frame with alpha.
 btn2.onClick=function(){
     var theLocation = File.saveDialog(savetip,"PNG Files:*.png;");
     if(theLocation!=null){
