@@ -4,6 +4,7 @@ AE当前帧存为png脚本，可以用来切图嗯。</br>
 # How to Use
 Download the [`ZIP file`](https://github.com/bigxixi/SaveFrameAsPNG-Plus/archive/master.zip) and unzip.</br>
 Run AE, click `File`->`Script`->`Run Script File...` and choose the `SaveFrameAsPNG-Plus.jsx` file.  
+</br>
 Or you can copy the `SaveFrameAsPNG-Plus.jsx` to your AE script folder:
 ### Windows:  
 `C:\Program Files\Adobe\Adobe After Effects <version>\Support Files\Script`  
@@ -23,7 +24,7 @@ I keep them both because of research reason, you can see the details in the code
 </br>
 #### PNG with good Alpha  
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/goodalpha1.png)  
-#### PNG with good Alpha  
+#### PNG with bad Alpha  
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/badalpha1.png)
 </br>
 # Known issues  
