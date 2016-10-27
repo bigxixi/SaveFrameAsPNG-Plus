@@ -16,6 +16,8 @@ Then you can run it derectly from `File`->`Script`  </br></br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)  
 [see details](https://helpx.adobe.com/after-effects/using/scripts.html)
 
+### Now you can also copy the `.jsx` file to the `/script/ScriptUI Panels/` to run from the AE `Window` menu.
+
 If everthing goes right, you will see this:</br>
 ![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/screenshot1.png)</br>
 
@@ -32,5 +34,5 @@ I keep them both because of research reason, you can see the details in the code
 
 # Known issues  
 1. Only tested on Mac OS 10.11.5 with `AE CC 13.2` and One of my frends help test an early veision on Windows 10 with AE CC 2014, but I'm not sure if the latest one works on that.  
-2. Sometimes the script might capture wrong images.Rerun the script to fiexd that.
-3. If you open a new file in AE, you have to rerun the script.
+2. Sometimes the script might capture wrong images.Rerun the script to fiexd that.<br>
+<del>3. If you open a new file in AE, you have to rerun the script.</del>
