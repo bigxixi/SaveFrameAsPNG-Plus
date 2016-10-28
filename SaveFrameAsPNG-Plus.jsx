@@ -64,7 +64,7 @@
 					}else{
 						//调整分辨率。如果不是“最佳”，则存储当前分辨率并设置当前分辨率为最佳，然后恢复当前分辨率
 						//if the resolution isnt 'Full', store current resolution and set to Full, then restore later;
-						var res = "1,1";
+						var res = [1,1];
 						if(app.project.activeItem.resolutionFactor != "1,1"){
 							res = app.project.activeItem.resolutionFactor;
 							app.project.activeItem.resolutionFactor = [1,1];
