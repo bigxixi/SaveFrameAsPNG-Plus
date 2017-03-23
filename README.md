@@ -13,8 +13,10 @@ Or you can copy the `SaveFrameAsPNG-Plus.jsx` to your AE script folder:
 
 </br>
 Then you can run it derectly from `File`->`Script`  </br></br>
-![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)  
-[see details](https://helpx.adobe.com/after-effects/using/scripts.html)
+
+![](https://raw.githubusercontent.com/bigxixi/ReadMe-Resources/master/SaveFrameAsPNG-Plus/menu1.png)</br>
+
+[see details](https://helpx.adobe.com/after-effects/using/scripts.html)</br>
 
 ### Now you can also copy the `.jsx` file to the `/script/ScriptUI Panels/` to run from the AE `Window` menu.
 
